@@ -1,4 +1,4 @@
-# Financial lexicon
+# SentiBigNomics financial lexicon
 
 def fin_items():
 
