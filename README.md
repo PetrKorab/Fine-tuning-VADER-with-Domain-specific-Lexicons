@@ -1,6 +1,6 @@
 # Fine-tuning VADER Classifier with Domain-specific Lexicons
 Python code, data, and lexicons for **Fine-tuning VADER Classifier with Domain-specific Lexicons**, *Submitted to publication on Medium*.
-Article available from [here](https://petrkorab.medium.com/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2).
+Article available from [here](https://medium.com/mlearning-ai/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2?sk=f36e92bc46ba2997e1fc5f4fe2c44bcc).
 
 Data licences for lexicons and data:
 * Loughran-McDonald Master Dictionary:free for use in academic research
